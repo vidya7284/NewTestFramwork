@@ -12,7 +12,7 @@ public class MaxNum {
 			}
 			
 		}
-		System.out.println("Max Num= " +max);
+		System.out.println("Maximun Number= " +max);
 		}
 	 
 }
